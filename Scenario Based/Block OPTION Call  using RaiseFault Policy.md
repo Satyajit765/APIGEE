@@ -7,7 +7,7 @@
 
 ---
 
-- Use thsi RaiseFault.
+- Use this RaiseFault.
 ```xml
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <RaiseFault continueOnError="false" enabled="true" name="Common-option">
