@@ -1,8 +1,10 @@
 # :label: Block OPTION Call :high_brightness:
 
 - Use this Condition and Below RaiseFault to block OPTION Call at Apigee End.
----
+```xml
 <Condition>request.verb == "OPTIONS"</Condition>
+```
+
 ---
 
 - Use thsi RaiseFault.
