@@ -1,7 +1,7 @@
 # :label: How to implement Caching in a proxy :high_brightness:
 
 
-- Use Response Cache Policy to do the caching at APigee And and Add the policyi PreFlow and Post Flow of the Traget URL.
+- Use ResponseCache policy to do the caching in Apigee and and add the policy in  preflow and postflow of the traget URL.
 ```xml
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <ResponseCache async="false" continueOnError="false" enabled="true" name="ResponseCacheDynamicContent">
