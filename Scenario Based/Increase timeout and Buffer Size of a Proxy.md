@@ -8,7 +8,7 @@
         <Properties>
             <Property name="io.timeout.millis">300000</Property>
         </Properties>
-    </HTTPTargetConnection>
+</HTTPTargetConnection>
 ```
 
 ---
@@ -25,5 +25,5 @@
             <Property name="response.streaming.enabled">true</Property>
             <Property name="request.streaming.enabled">true</Property>
         </Properties>
-    </HTTPTargetConnection>
+</HTTPTargetConnection>
 ```
